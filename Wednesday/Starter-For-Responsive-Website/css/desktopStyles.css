@@ -1,0 +1,37 @@
+
+
+.post {
+  flex-flow: row;
+  font-size: 20px;
+}
+
+h1{
+  font-size: 40px;
+  font-weight: 400;
+  display: block;
+}
+
+.post img {
+  width: 15em;
+  height: 12em;
+}
+
+li {
+  background-color: gray;
+  flex-flow: row;
+  font-size: 20px;
+  margin:10px;
+  padding:8px;
+}
+
+.navigation ul {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-flow: row;
+}
+
+p {
+  margin-top: 45px;
+  margin-left: 10px;
+}

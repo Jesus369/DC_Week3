@@ -1,0 +1,88 @@
+body {
+  font-family: "Times New Roman", serif;
+}
+
+.header {
+  background-color: #4DB6F2;
+  color: white;
+  margin-top: 3em;
+  margin-right: 4em;
+  margin-left: 4em;
+  padding: 10px;
+  position: relative;
+}
+
+.title {
+  font-family: Arial;
+  font-size: 37px;
+  margin-left: 70px;
+}
+
+.returnLink {
+  display: inline-block;
+  padding-right: 4em;
+}
+
+.returnCat{
+  position: absolute;
+  left: 25em;
+  top: 20px;
+}
+
+.returnTab1 {
+  color: white;
+  font-family: helvetica;
+  text-decoration: none;
+  font-size: 23px;
+}
+
+.returnTab2 {
+  color: white;
+  font-family: "Heragino Sans";
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.reviews {
+  background-color: #CACDCF;
+  margin-right: 10em;
+  margin-left: 10em;
+  padding-right: 1em;
+  padding-left: 1em;
+  padding-bottom: 5px;
+  position: relative;
+
+}
+
+.reviewsTitle{
+  color: #5F6162;
+  top: 15px;
+  position: inherit;
+}
+
+.context{
+  margin-right: 10em;
+  margin-left: 10em;
+  padding-right: 1em;
+  padding-left: 1em;
+  padding-bottom: 5px;
+  position: relative;
+}
+
+.contextHeader{
+  color: #1E8CE8;
+  font-family: "Avenir";
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.comments{
+  background-color: #EA9846;
+}
+.commentsUL{
+  color: white;
+  display: inline-block;
+  font-family: Arial;
+  font-size: 14px;
+  padding: 3px;
+}

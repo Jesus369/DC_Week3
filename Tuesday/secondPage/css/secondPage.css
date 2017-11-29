@@ -1,0 +1,44 @@
+body {
+  font-family: "Times New Roman", serif;
+}
+
+.header {
+  background-color: #4DB6F2;
+  color: white;
+  margin-top: 3em;
+  margin-right: 4em;
+  margin-left: 4em;
+  padding: 10px;
+  position: relative;
+}
+
+.title {
+  font-family: Arial;
+  font-size: 37px;
+  margin-left: 70px;
+}
+
+.returnLink {
+  display: inline-block;
+  padding-right: 4em;
+}
+
+.returnCat{
+  position: absolute;
+  left: 25em;
+  top: 20px;
+}
+
+.returnTab1 {
+  color: white;
+  font-family: helvetica;
+  text-decoration: none;
+  font-size: 23px;
+}
+
+.returnTab2 {
+  color: white;
+  font-family: "Heragino Sans";
+  font-size: 30px;
+  text-decoration: none;
+}
